@@ -558,7 +558,7 @@ U 1 1 5FD3E29C
 P 5850 5250
 F 0 "U2" H 5550 5600 50  0000 C CNN
 F 1 "LMC555" H 6050 5600 50  0000 C CNN
-F 2 "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm" H 6700 4850 50  0001 C CNN
+F 2 "Package_SO:SO-8_3.9x4.9mm_P1.27mm" H 6700 4850 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lmc555.pdf" H 6700 4850 50  0001 C CNN
 	1    5850 5250
 	1    0    0    -1  
