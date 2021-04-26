@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name xylene)(type Legacy)(uri C:/repos/ksylen/libs/xylene.lib)(options "")(descr ""))
+)

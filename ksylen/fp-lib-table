@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ksylen)(type KiCad)(uri C:/repos/ksylen/libs/ksylen.pretty)(options "")(descr ""))
+)
