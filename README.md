@@ -6,7 +6,7 @@ Xylene is a SPI NOR flash DIP-8/16 adapter with all needed resistors and capacit
 
 ![schema](xylene/imgs/xylene_render4.png)
 
-Board was designed using [KiCad 5.1.6](https://kicad-pcb.org/).
+Board was designed using [KiCad 5.1.6](https://kicad.org/).
 
 ### ◾ License
 Xylene is available on Creative Commons Attribution Share Alike 4.0 International license (more in [license file](LICENSE.txt)). You are free to use it, modify it and produce as many of your own boards as you need :)
